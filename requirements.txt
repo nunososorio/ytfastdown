@@ -1,4 +1,2 @@
 pandas
 pytube
-base64
-io
